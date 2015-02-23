@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cricketers>
+  <Player>
+    <Team>Adelaide Strikers</Team>
+    <TeamId>1</TeamId>
+    <FirstName>Johan</FirstName>
+    <LastName>Botha</LastName>
+    <Age>32 years 248 days</Age>
+    <IsCaptain>yes</IsCaptain>
+    <Role> Allrounder</Role>
+    <ProfileUrl>44149</ProfileUrl>
+    <ImageUrl>http://www.espncricinfo.com/inline/content/image/818353.html?alt=icon</ImageUrl>
+  </Player>
+  <Player>
+    <Team>Adelaide Strikers</Team>
+    <TeamId>1</TeamId>
+    <FirstName>Jono</FirstName>
+    <LastName>Dean</LastName>
+    <Age>20 years 196 days</Age>
+    <Role> </Role>
+    <ProfileUrl>316730</ProfileUrl>
+    <ImageUrl>http://www.espncricinfo.com/inline/content/image/818353.html?alt=icon</ImageUrl>
+  </Player>
+  <Player>
+    <Team>Adelaide Strikers</Team>
+    <TeamId>1</TeamId>
+    <FirstName>Travis</FirstName>
+    <LastName>Head</LastName>
+    <Age>21 years 7 days</Age>
+    <Role>wicketkeeper</Role>
+    <ProfileUrl>530011</ProfileUrl>
+    <ImageUrl>http://www.espncricinfo.com/inline/content/image/575822.html?alt=icon</ImageUrl>
+  </Player>
+  <Player>
+    <Team>Adelaide Strikers</Team>
+    <TeamId>1</TeamId>
+    <FirstName>Brad</FirstName>
+    <LastName>Hodge</LastName>
+    <Age>40 years 7 days</Age>
+    <Role>Top-order batsman</Role>
+    <ProfileUrl>5674</ProfileUrl> <!-- put them as constants-->
+    <ImageUrl>http://www.espncricinfo.com/inline/content/image/567229.html?alt=icon</ImageUrl>
+  </Player>
+  <Player>
+    <Team>Adelaide Strikers</Team>
+    <TeamId>1</TeamId>
+    <FirstName>Jon</FirstName>
+    <LastName>Holland</LastName>
+    <Age>27 years 221 days</Age>
+    <Role></Role>
+    <ProfileUrl>230368</ProfileUrl>
+    <ImageUrl>http://www.espncricinfo.com/inline/content/image/767327.html?alt=icon</ImageUrl>
+  </Player>
+  <Player>
+    <Team>Adelaide Strikers</Team>
+    <TeamId>1</TeamId>
+    <FirstName>Hamish</FirstName>
+    <LastName>Kingston</LastName>
+    <Age>24 years 19 days</Age>
+    <Role></Role>
+    <ProfileUrl>326679</ProfileUrl>
+    <ImageUrl></ImageUrl>
+  </Player>
+  <Player>
+    <Team>Adelaide Strikers</Team>
+    <TeamId>1</TeamId>
+    <FirstName>Ben</FirstName>
+    <LastName>Laughlin</LastName>
+    <Age>32 years 94 days</Age>
+    <Role></Role>
+    <ProfileUrl>315623</ProfileUrl>
+    <ImageUrl></ImageUrl>
+  </Player>
+  <Player>
+    <Team>Adelaide Strikers</Team>
+    <TeamId>1</TeamId>
+    <FirstName>Trent</FirstName>
+    <LastName>Lawford</LastName>
+    <Age>26 years 262 days</Age>
+    <Role></Role>
+    <ProfileUrl>315623</ProfileUrl>
+    <ImageUrl>http://www.espncricinfo.com/inline/content/image/399747.html?alt=icon</ImageUrl>
+  </Player>
+
+
+  <Player>
+    <Team>Brisbane Heat</Team>
+    <TeamId>2</TeamId>
+    <FirstName>James</FirstName>
+    <LastName>Hopes</LastName>
+    <Age>36 years 74 days</Age>
+    <IsCaptain>yes</IsCaptain>
+    <Role>Allrounder</Role>
+    <ProfileUrl>5702</ProfileUrl>
+    <ImageUrl></ImageUrl>
+  </Player>
+  <Player>
+    <Team>Brisbane Heat</Team>
+    <TeamId>2</TeamId>
+    <FirstName>Shane</FirstName>
+    <LastName>Watson</LastName>
+    <Age>33 years 203 days</Age>
+    <IsCaptain></IsCaptain>
+    <Role>Allrounder</Role>
+    <ProfileUrl>8180</ProfileUrl>
+    <ImageUrl>//http://www.espncricinfo.com/inline/content/image/317165.html?alt=icon</ImageUrl>
+  </Player>
+  <Player>
+    <Team>Brisbane Heat</Team>
+    <TeamId>2</TeamId>
+    <FirstName>Peter</FirstName>
+    <LastName>Forrest</LastName>
+    <Age>29 years 52 days</Age>
+    <IsCaptain></IsCaptain>
+    <Role>Middle-order batsman</Role>
+    <ProfileUrl>5702</ProfileUrl>
+    <ImageUrl>http://www.espncricinfo.com/inline/content/image/423932.html?alt=icon</ImageUrl>
+  </Player>
+  <Player>
+    <Team>Brisbane Heat</Team>
+    <TeamId>2</TeamId>
+    <FirstName>Mitchell</FirstName>
+    <LastName>Johnson</LastName>
+    <Age>33 years 203 days</Age>
+    <Role>Allrounder</Role>
+    <ProfileUrl>6033</ProfileUrl>
+    <ImageUrl>http://www.espncricinfo.com/inline/content/image/817145.html?alt=icon</ImageUrl>
+  </Player>
+
+</Cricketers>
